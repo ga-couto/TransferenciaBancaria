@@ -1,0 +1,16 @@
+C:\Users\Acer\Projetos\C#\TransferenciaBancaria\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.exe
+C:\Users\Acer\Projetos\C#\TransferenciaBancaria\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.deps.json
+C:\Users\Acer\Projetos\C#\TransferenciaBancaria\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.runtimeconfig.json
+C:\Users\Acer\Projetos\C#\TransferenciaBancaria\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.runtimeconfig.dev.json
+C:\Users\Acer\Projetos\C#\TransferenciaBancaria\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.dll
+C:\Users\Acer\Projetos\C#\TransferenciaBancaria\TransferenciaBancaria\bin\Debug\net5.0\ref\TransferenciaBancaria.dll
+C:\Users\Acer\Projetos\C#\TransferenciaBancaria\TransferenciaBancaria\bin\Debug\net5.0\TransferenciaBancaria.pdb
+C:\Users\Acer\Projetos\C#\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.csproj.AssemblyReference.cache
+C:\Users\Acer\Projetos\C#\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Projetos\C#\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.AssemblyInfoInputs.cache
+C:\Users\Acer\Projetos\C#\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.AssemblyInfo.cs
+C:\Users\Acer\Projetos\C#\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Projetos\C#\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.dll
+C:\Users\Acer\Projetos\C#\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\net5.0\ref\TransferenciaBancaria.dll
+C:\Users\Acer\Projetos\C#\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.pdb
+C:\Users\Acer\Projetos\C#\TransferenciaBancaria\TransferenciaBancaria\obj\Debug\net5.0\TransferenciaBancaria.genruntimeconfig.cache
